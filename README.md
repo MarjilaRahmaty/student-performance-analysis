@@ -27,13 +27,13 @@ The goal is to move beyond assumptions and uncover data-driven insights about st
 ## 📈 Visualizations
 
 ### Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### Previous Score vs Performance (Regression)
-![Previous Score](images/previous_score.png)
+![Previous Score](previous.png)
 
 ### Practice Papers vs Performance
-![Practice](images/practice.png)
+![Practice](practice.png)
 
 ---
 
@@ -41,7 +41,7 @@ The goal is to move beyond assumptions and uncover data-driven insights about st
 Previous academic performance is the strongest predictor of future results, while short-term effort variables show minimal impact.
 
 ---
-
+## for more information you can check StudentPerformance.csv
 
 ---
 
